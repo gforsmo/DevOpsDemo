@@ -1,4 +1,4 @@
-# DevOpsConf2021
+# GitHubDevOpsDemo
 ## PowerBI with DevOps
 ### Azure Portal
 #### Create a new app registration
